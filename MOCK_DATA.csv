@@ -1,0 +1,1003 @@
+Sample data created with https://www.mockaroo.com/.
+
+id,city,date,grocery,value01,amount
+"1,Nariño,1935-04-15,""Spoon - Soup, Plastic"",69203.12,678319"
+"2,Fonte de Angeão,1906-04-19,""Coke - Classic, 355 Ml"",-82964.06,-662022"
+3,Grenoble,1905-11-08,Tomatoes - Heirloom,82124.89,268954
+4,Kagay,1951-09-11,Steampan Lid,92479.61,-266022
+5,Tegina,1971-06-09,Beef - Short Ribs,13585.52,805335
+6,Paldiski,1951-11-19,Wine - Chateau Bonnet,-81534.15,265700
+7,Girardot,1908-12-30,Broom - Corn,92305.5,-104796
+"8,Dongjiao,1988-04-18,""Beef - Baby, Liver"",7177.84,-571829"
+9,Motrico,1997-01-05,Soup - Campbells - Tomato,-59107.0,-714109
+"10,Manūjān,1986-05-28,""Cheese - Mozzarella, Shredded"",30162.31,-739967"
+11,Battambang,1926-08-17,Napkin - Beverage 1 Ply,31292.71,758166
+12,Podsineye,1938-01-07,Onions - Red,93197.55,264509
+13,Międzyzdroje,1902-01-02,Cookie Trail Mix,78701.91,-399501
+14,Kirkland,2000-08-22,Muffin Mix - Corn Harvest,-25814.41,-813780
+15,Trảng Bom,1966-08-09,Lemonade - Pineapple Passion,-60620.28,-57779
+16,Wenwusha,1918-06-07,Pail With Metal Handle 16l White,46379.09,303023
+"17,Cipesing,1983-04-11,""Brownies - Two Bite, Chocolate"",86843.32,250453"
+18,Beni,1985-06-22,Vinegar - Cider,24319.19,844848
+19,Popovi,1934-12-26,Beef - Short Loin,69812.09,390024
+"20,Sintansin,1933-01-17,""Beans - Black Bean, Canned"",-2108.66,-927964"
+21,Tenjolaya,1953-12-26,Flour - Fast / Rapid,-16153.82,-653968
+22,Amagbagan,1972-05-03,Butter - Unsalted,-23370.72,852373
+"23,Banjar Ponggang,1954-01-19,""Cheese - Woolwich Goat, Log"",87978.33,115865"
+24,Rengang,1964-02-17,Haggis,-77440.8,-856647
+25,Suchedniów,1944-05-10,Chocolate Bar - Coffee Crisp,-97898.15,203327
+26,Nueva Helvecia,1999-10-11,Pan Grease,99984.39,1509
+27,Kolonowskie,1996-02-10,Duck - Whole,60697.24,664984
+28,Cangkuang,1963-02-18,Cheese - Brick With Onion,26716.95,383144
+29,Dazhipo,1901-04-27,Sansho Powder,-89000.97,-550508
+30,Sergeyevka,1925-01-04,Coffee - Ristretto Coffee Capsule,37772.61,-468201
+"31,Sundsvall,2017-11-06,""Pasta - Cappellini, Dry"",86039.79,-320437"
+32,Santiago de Baney,1975-05-08,Anchovy Fillets,96286.67,-9433
+"33,Marseille,1930-04-01,""Veal - Tenderloin, Untrimmed"",23723.26,365579"
+34,San José de Río Tinto,1979-09-22,Macaroons - Two Bite Choc,-5651.79,117757
+35,Chennevières-sur-Marne,1938-05-19,Wine - Ice Wine,-13370.12,-450982
+36,Ciroyom,2001-12-05,Carbonated Water - Lemon Lime,56881.78,-706269
+"37,Starominskaya,1940-02-19,""Stock - Veal, Brown"",60074.58,-159029"
+"38,Acopampa,2011-09-11,""Veal - Insides, Grains"",-13460.63,450921"
+39,Yangjiao,1947-06-07,Cranberry Foccacia,-42739.53,979743
+40,Sivaki,2020-01-15,Food Colouring - Orange,-34370.11,724597
+41,Tambangan,2007-03-12,Snails - Large Canned,-57782.34,-895152
+42,Drachten,1960-04-04,Stainless Steel Cleaner Vision,64398.05,984548
+43,Oebatu,1920-08-22,Devonshire Cream,16828.16,219126
+44,Huanoquite,1952-11-12,Onions - Red,-87014.32,-410942
+45,Na Yong,1931-08-26,Creamers - 10%,40431.66,935396
+46,Golug,1909-02-09,Salmon Atl.whole 8 - 10 Lb,-61522.1,-999664
+47,Ancasti,2008-11-23,Towel Multifold,-84932.76,-421822
+48,Nueva Requena,2002-05-13,Mcguinness - Blue Curacao,54597.97,-667841
+49,Bulacan,1901-04-15,Cookie Dough - Chocolate Chip,95551.57,-117121
+50,Brody,1941-03-11,Bread Country Roll,85508.62,866308
+51,Bauan,1993-04-23,Wine - Cabernet Sauvignon,-5905.62,81105
+"52,San Francisco,1990-06-03,""Lamb - Whole, Fresh"",-12557.47,849138"
+53,Washington,1958-04-25,Artichokes - Jerusalem,-74468.54,520842
+54,Kruševac,1938-10-07,Muffin - Zero Transfat,-41013.05,-768435
+"55,Onueke,1969-05-23,""Wine - Red, Cabernet Sauvignon"",60843.82,-89041"
+56,Jiabeiyan,1947-04-08,Currants,-77526.12,307816
+57,San Lucas,1995-09-19,Apron,75793.71,-648601
+58,Kawanoechō,1961-05-10,Everfresh Products,-7190.71,991153
+59,Skärholmen,1963-03-20,Chevril,-5424.75,874381
+60,Qiaojia,1932-04-16,Tuna - Loin,31942.65,435442
+61,Barisāl,1981-07-26,Appetizer - Seafood Assortment,4555.62,-978386
+62,Cotabambas,1975-02-19,Wine - Barolo Fontanafredda,-50804.66,-668254
+63,Jinjing,1948-10-22,Beans - Kidney White,97266.94,199823
+64,Katipunan,1987-09-30,Straw - Regular,-99595.74,-633835
+65,Kitapak,1961-01-25,Wonton Wrappers,85384.75,703345
+66,Juan de Acosta,1963-04-04,Pie Shell - 5,20298.36,-682803
+67,Itambé,1971-08-12,Wine - Red Oakridge Merlot,-59539.33,728748
+68,Mariefred,1941-04-17,Sauce - Sesame Thai Dressing,-29617.28,-46795
+69,Mingjiu,1916-01-28,Chicken Giblets,-44872.8,-46358
+70,Haoguantun,1969-08-02,Cocoa Butter,-36760.63,-145522
+71,Krueng Luak,1939-08-10,Beer - Guiness,-97610.12,441031
+"72,Yoshida-kasugachō,1926-08-06,""Oregano - Dry, Rubbed"",31502.89,151404"
+73,Huai’an,2005-09-27,Towel Dispenser,-50987.63,80603
+74,Saint-Denis,1924-04-09,Squid - Breaded,-13250.33,842774
+75,Grahamstown,1942-01-17,Oxtail - Cut,82836.76,375765
+76,Batiovo,1932-12-20,Chips - Doritos,-44903.96,-921911
+"77,Vyazniki,1966-06-26,""Beef - Chuck, Boneless"",69606.91,969498"
+78,Drachten,1994-07-20,Wiberg Super Cure,-37521.76,672
+79,Milano,1905-09-12,Bag Stand,32184.07,658117
+"80,Almelo,1924-01-22,""Bread - Pullman, Sliced"",-37216.62,951712"
+"81,Cerrito,1976-05-30,""Lamb - Whole, Frozen"",46422.98,46783"
+82,Dagu,2005-11-10,Eggplant Oriental,-47088.79,-700373
+"83,Shigou,1970-09-21,""Pasta - Lasagna Noodle, Frozen"",83965.01,291098"
+84,Al Qarmadah,1988-04-27,Trueblue - Blueberry 12x473ml,55600.48,-900692
+85,Graz,1957-04-10,Veal Inside - Provimi,89921.43,38388
+86,Hengjing,1912-05-05,Onions - Green,20430.04,786242
+"87,Ochakiv,1927-03-20,""Pepper - Red, Finger Hot"",-2148.0,929139"
+"88,Clones,1962-03-03,""Coconut - Creamed, Pure"",3262.55,20868"
+89,Muramatsu,1942-10-29,Danishes - Mini Cheese,-417.38,-810160
+"90,Hengdian,1941-02-15,""Beef - Chuck, Boneless"",81250.77,-514751"
+91,Banquero,1947-10-14,Pork Ham Prager,15885.18,4557
+92,Kiruna,1910-10-16,Spice - Onion Powder Granulated,-41761.33,294673
+"93,Alca,2015-11-04,""Soup - Knorr, French Onion"",-6784.48,807923"
+94,Mtinko,1928-10-17,Soap - Hand Soap,6833.69,-292300
+95,Washington,1903-08-03,Cake Slab,-41702.12,445115
+96,Morrison,1993-12-25,Scallops - 20/30,-11430.78,975645
+97,Głowno,1954-01-25,Sprouts - Corn,22787.09,445730
+98,Bureng,1918-02-25,Bread - French Baquette,-82553.3,-129765
+99,Tawali,1958-01-16,Table Cloth 62x114 White,-66563.59,-377962
+100,Gudermes,1914-11-02,Mix Pina Colada,-73887.16,862520
+101,Serang,2019-08-05,Bread - Olive,-49990.98,344949
+102,Pámfylla,1960-04-14,Dc - Sakura Fu,16939.49,422399
+103,Dodu Dua,1924-09-11,Scallops - 10/20,35729.55,-650364
+104,Donghuang,2020-07-23,Tomatoes - Orange,13966.71,532361
+105,Baní,1965-09-27,Cornflakes,33886.0,-835857
+106,Lazaro Cardenas,1983-10-08,Curry Powder,22563.02,-734816
+107,Jardín América,1908-07-17,Lumpfish Black,49536.6,849678
+108,Guangning,1994-08-22,Wine - Zonnebloem Pinotage,40136.74,-549889
+"109,Aozai,2012-11-07,""Pasta - Lasagne, Fresh"",28225.77,-87520"
+110,Évreux,1990-05-08,Veal - Leg,-17046.79,258646
+111,Limonade,1956-01-11,Flour - Whole Wheat,-53383.94,-918481
+112,Lingqiao,2006-03-21,Gatorade - Lemon Lime,-79001.03,-727319
+"113,Tamontaka,1905-05-29,""Beef - Tongue, Cooked"",-36009.35,303540"
+114,Youyun,2003-09-11,Sultanas,-14829.8,152215
+115,Przytyk,1902-05-29,Kirsch - Schloss,-90160.4,-78729
+116,Mori,1947-05-20,Sauce - Marinara,-26344.63,-443991
+117,Zomba,2019-06-15,Wine - Merlot Vina Carmen,85740.29,815228
+118,San Jose del Monte,2015-12-11,Soup - Campbells - Tomato,45433.9,-742103
+"119,Göteborg,1948-07-16,""Pasta - Fettuccine, Egg, Fresh"",30676.39,-325861"
+120,Laç,1994-01-09,Mustard - Seed,32387.4,-209584
+121,São Luís,1972-12-22,Beer - Sleeman Fine Porter,59932.31,140363
+122,Balungao,1954-11-16,Wine - Vineland Estate Semi - Dry,-82273.68,529288
+123,Dowlatyār,1935-12-25,Garbage Bag - Clear,50169.01,121784
+124,Grand Rapids,1913-12-03,Strawberries,45688.3,-823908
+125,Świętajno,2015-01-11,Soup - Campbells Chicken,-14346.46,-846662
+126,Remedios,1953-04-30,Sugar - Crumb,3647.05,715817
+"127,Boac,2009-04-27,""Bag - Bread, White, Plain"",-94948.33,519783"
+128,Monte da Boavista,1970-09-11,Praline Paste,-75479.51,920057
+129,Shawnee Mission,2019-06-06,Pepper - Red Thai,16143.43,-693678
+130,Sinarbakti,1910-04-18,Bread - Granary Small Pull,-72863.74,440340
+"131,Valbo,2016-06-29,""Pepper - Julienne, Frozen"",-80892.06,-711711"
+132,Bartica,1998-03-08,Tomatoes Tear Drop Yellow,-9362.54,987214
+133,Catarina,2006-09-21,Cake - Lemon Chiffon,-3452.68,-618845
+134,Chengyue,1963-03-24,Saskatoon Berries - Frozen,63145.83,514020
+"135,Balgarevo,1907-12-25,""Juice - Grape, White"",9654.68,-789926"
+"136,Ōiso,1916-08-28,""Apple - Delicious, Red"",32200.19,186502"
+137,Derzhavīnsk,1980-07-07,Beef - Shank,85949.7,405002
+138,Encantado,1962-08-20,Clam - Cherrystone,-8177.85,761268
+139,Mizusawa,1956-04-16,Mousse - Banana Chocolate,-92950.54,-507539
+140,Nantes,1975-10-28,Juice - Cranberry 284ml,-86190.4,-242906
+141,Prado,1962-08-31,Chips - Miss Vickies,9783.48,479157
+142,Horgo,1949-07-29,Wine - Balbach Riverside,26994.9,837536
+"143,Bāmyān,1940-08-13,""Basil - Primerba, Paste"",-12768.48,530517"
+144,Heishui,2008-10-14,Sage Derby,98689.49,-663888
+"145,Amiens,1941-11-27,""Artichoke - Hearts, Canned"",-40001.38,118893"
+146,Margate,1989-12-03,Raisin - Dark,93917.62,499623
+147,San Jorge,1985-09-10,Pie Shells 10,-36482.93,275105
+148,Zheleznogorsk-Ilimskiy,1904-03-29,Hand Towel,-59402.42,-398176
+"149,Lugo,2008-02-09,""Cheese - Brie, Cups 125g"",-10267.0,-130082"
+150,Sparwood,2016-07-14,Salmon Steak - Cohoe 8 Oz,-1527.51,-843896
+151,Avignon,1918-04-01,Beef Ground Medium,65932.53,768684
+152,Dulles,1902-03-09,Scrubbie - Scotchbrite Hand Pad,40589.86,805688
+"153,Bremen,1939-11-17,""Ice - Clear, 300 Lb For Carving"",-36263.74,-210561"
+154,Fuliang,1975-08-25,Muffin - Zero Transfat,-16072.77,987842
+"155,Sanjian,1911-04-06,""Ice - Clear, 300 Lb For Carving"",-86119.91,17032"
+156,Yazykovo,1956-10-06,Broccoli - Fresh,-13728.44,909344
+157,Rochester,1919-01-06,Strawberries,-90146.7,570943
+"158,Tena,1946-11-03,""Lobster - Baby, Boiled"",-42211.4,975611"
+159,Dornava,1914-07-07,Pepper - Red Bell,-3886.02,-607105
+"160,Dian-ay,1972-01-20,""Sauce - Gravy, Au Jus, Mix"",-85443.72,978515"
+161,Fianarantsoa,1920-12-12,Coffee - Decafenated,-41685.64,-782164
+162,Wangfu,1936-08-28,Potatoes - Parissienne,-57731.9,325706
+163,Katipunan,1960-12-03,Ecolab - Balanced Fusion,-70867.71,-921935
+164,Jalingo,1989-02-23,Sugar - Crumb,-7073.26,-545371
+165,Alvaro Obregon,1972-08-27,Blouse / Shirt / Sweater,8645.51,-872608
+166,Yuqian,1941-05-08,Veal - Kidney,-49639.87,246554
+167,Lijie,1927-12-04,Sage Ground Wiberg,-84044.75,485464
+168,Ylämaa,1929-08-09,Quail Eggs - Canned,-21596.9,264054
+169,Blois,1974-12-22,Chocolate - Chips Compound,3975.13,96974
+170,Shaxi,1948-08-28,Crackers - Trio,-75854.36,-700815
+171,Boisbriand,2005-06-16,Pancetta,59189.62,-483911
+"172,Carapelhos,1953-02-23,""Lobster - Tail, 3 - 4 Oz"",17836.81,-961585"
+173,Dongsheng,2020-12-15,Tamarind Paste,-83385.88,-235122
+174,Åtvidaberg,1949-12-17,Bread - Kimel Stick Poly,-39038.57,446995
+"175,Mungui,2009-06-04,""Nut - Chestnuts, Whole"",14525.03,152966"
+176,Tanjungbatu,1952-08-31,Sultanas,5215.56,-523118
+177,Los Pinos,2007-09-15,Carrots - Jumbo,-22644.52,-825875
+"178,Boliney,2009-09-20,""Wine - White, French Cross"",19703.7,856410"
+"179,Herāt,2010-05-26,""Lamb - Whole, Frozen"",-27565.92,-338946"
+"180,Fenlu,1962-12-24,""Capon - Breast, Wing On"",72780.26,798542"
+181,Daojiang,1917-05-07,Cup - 8oz Coffee Perforated,-31072.63,730432
+182,Pekuncen,2016-06-08,Pie Filling - Pumpkin,-59214.82,126519
+183,Jacinto Arauz,1980-03-19,Soup - Campbells Asian Noodle,78542.42,-687298
+184,Wan’an,1998-08-31,Squid - U - 10 Thailand,96695.83,-468419
+185,La Colorada,1988-04-30,Couscous,10452.98,919326
+186,Wangong,1942-11-08,Bread - Pita,-24098.26,-798826
+187,Andoany,1969-12-08,Dragon Fruit,-67071.54,761030
+188,Kupahandap,1912-11-18,Ham - Virginia,-59766.16,822680
+"189,Pajala,1919-08-02,""Tomatoes - Cherry, Yellow"",-56357.83,513081"
+190,Senj,1949-04-03,Drambuie,12049.16,-297335
+191,Svenljunga,1979-05-20,Lamb - Whole Head Off,-31541.12,916178
+192,Jiaozuo,1934-10-07,Chinese Foods - Cantonese,-17519.88,-312809
+193,Zhujiang,1995-10-13,Rye Special Old,-14226.48,-341046
+194,San Bernardino,1906-09-06,Chevril,-8534.43,71376
+195,Yihe,1904-10-20,Cheese - Grana Padano,69528.21,26817
+196,Janów,1973-10-04,Chocolate Liqueur - Godet White,56440.4,-732444
+197,Saint Louis,1994-01-06,Cheese - Fontina,-77756.22,45984
+198,Palencia,1915-06-10,Oil - Macadamia,97009.66,-427135
+199,Pendolo,1963-03-08,Chocolate - Compound Coating,-20714.61,-175199
+200,Kilimatinde,2008-08-04,Muffin Mix - Morning Glory,-37107.6,-920521
+201,Padang,1951-10-04,Potatoes - Idaho 100 Count,14899.09,-980972
+202,Glagahdowo,1902-01-10,Soupcontfoam16oz 116con,-83926.85,-467257
+203,Mayorga,1921-02-06,Wheat - Soft Kernal Of Wheat,9898.06,452169
+204,Sunne,1986-03-06,Foil Wrap,92206.9,953665
+205,Guáimaro,1926-01-09,Crackers - Water,-83625.0,13450
+206,Oeleu,2003-08-03,Beer - Maudite,53792.21,-916040
+207,Toguchin,1941-07-01,Pears - Bartlett,-81439.0,301951
+"208,Zubūbah,1968-11-07,""Artichokes - Knobless, White"",-41770.87,972418"
+209,Västerås,1993-10-03,Beans - Wax,5467.2,923450
+210,Resistencia,1970-05-09,Lettuce - Treviso,-13913.77,-218836
+211,Manhan,1987-09-26,Beef - Salted,-36298.78,322932
+212,Xishan,1967-02-15,Wine - Prosecco Valdobiaddene,11665.61,79630
+213,Idhnā,1914-02-07,Water Chestnut - Canned,-15453.66,535212
+214,Pappádos,1957-11-02,Beef - Shank,22204.11,729669
+215,Lakha Nëvre,2002-12-27,Tomatoes Tear Drop,92008.56,-698049
+216,Cikandang,1987-03-25,Venison - Striploin,-53139.87,-481782
+217,Paris La Défense,1913-10-09,Cheese - Grie Des Champ,42771.93,203539
+218,Pappádos,1936-11-18,Seaweed Green Sheets,84545.88,366485
+219,Chengdong,1922-01-15,Meldea Green Tea Liquor,-26157.78,-306706
+220,Irving,2002-01-13,Duck - Breast,-29771.66,-433035
+221,Zheng’an,1947-06-06,Strawberries,-72372.93,976493
+222,Totoras,1973-12-17,Muffin - Zero Transfat,31235.06,766962
+"223,Vimieiro,1969-04-06,""Shrimp - 21/25, Peel And Deviened"",31289.06,932677"
+224,Wolin,1931-03-04,Salmon Steak - Cohoe 8 Oz,93909.63,320048
+225,Yinhe,1991-03-09,Bread - Bistro White,86556.68,659506
+226,Brzyska,2006-11-03,Curry Powder Madras,11169.99,924563
+227,Huangtang,1938-02-03,Cookie Chocolate Chip With,-36372.82,429159
+228,Toktogul,1952-10-11,Flower - Dish Garden,79714.36,-761647
+229,Boli,1965-05-13,Goat - Whole Cut,-79787.56,723688
+230,Pingshan,1999-10-26,Samosa - Veg,37614.89,441819
+231,Wasogolo,1953-10-17,Appetiser - Bought,22404.78,-811852
+232,Bugojno,1949-10-23,Vanilla Beans,84680.89,-142272
+233,Raojān,1974-04-05,Piping - Bags Quizna,-30704.56,-640124
+234,Culasian,1968-04-28,Ice Cream - Strawberry,-71627.51,432944
+235,Pidsandawan,1970-06-07,Container - Hngd Cll Blk 7x7x3,58501.35,-686474
+236,El Estor,1904-04-30,Cabbage - Green,3730.01,-949154
+237,El Carmen,1976-05-04,Sobe - Lizard Fuel,-80476.47,-308249
+"238,Pasaje,1913-10-28,""Soup - Canadian Pea, Dry Mix"",56446.25,-788527"
+239,Mertani,1912-03-23,Tomatoes,-3808.21,-594304
+240,Pshada,1919-10-30,Soup Campbells - Italian Wedding,-85536.22,-335929
+241,Strängnäs,1920-11-17,Beef Dry Aged Tenderloin Aaa,-66879.13,452743
+242,Luruaco,1903-03-03,Cheese - Pied De Vents,75813.2,626225
+"243,London,1902-09-19,""Stock - Beef, White"",61403.56,-167117"
+"244,Shicheng,1931-11-13,""Juice - Grapefruit, 341 Ml"",-36317.5,-783797"
+245,Yajiang,2019-08-30,Lobster - Live,14181.53,506790
+246,Xiangying,1932-06-17,Chocolate Bar - Reese Pieces,-43104.83,-648523
+"247,Munka-Ljungby,1928-11-18,""Rum - Coconut, Malibu"",-37453.83,-582214"
+248,Dongxiang,1925-12-12,Lumpfish Black,15834.36,-864384
+249,Rawa Mazowiecka,1963-08-22,Appetizer - Assorted Box,99870.79,-895789
+250,Yuanjue,1961-04-08,Bag Stand,33128.46,521698
+251,Vithkuq,1980-02-17,Smirnoff Green Apple Twist,89295.21,541555
+252,Blois,1957-01-17,Dc Hikiage Hira Huba,85949.26,709192
+"253,Kuivaniemi,1999-04-15,""Cake Circle, Paprus"",99357.77,33154"
+254,Batang,2014-10-26,Milk Powder,-6397.5,-234203
+"255,Cañas,1909-06-06,""Coconut - Creamed, Pure"",47307.71,407814"
+256,Simapu,1911-07-28,Remy Red,70871.15,-972852
+257,Mhlume,1945-12-24,Hinge W Undercut,-14471.7,128069
+"258,Nachalovo,1901-07-01,""Capon - Breast, Wing On"",82992.16,4092"
+259,Yelabuga,1914-11-14,Wine - Pinot Noir Pond Haddock,31480.24,596973
+260,Kagay,1954-12-18,Tofu - Firm,31961.2,-295020
+"261,Santa Rosa de Copán,2012-02-16,""Wine - White, Pinot Grigio"",-17352.83,32404"
+262,Selkirk,1978-01-16,Tomato - Green,85263.69,-802473
+"263,Chambar,1951-02-11,""Tomatoes - Vine Ripe, Red"",68248.47,336711"
+264,Haparanda,1954-05-24,Sorrel - Fresh,-85718.86,-179753
+265,El Progreso,1986-01-28,Salt - Table,1078.99,-904298
+266,Chlumec nad Cidlinou,1982-02-28,Seedlings - Clamshell,-89427.29,458904
+"267,San Fernando,1901-02-09,""Flour - Buckwheat, Dark"",-11378.27,-223902"
+268,Bolian,1940-07-04,Veal - Provimi Inside,68226.16,-586944
+"269,Al ‘Aqabah,2019-03-06,""Pork - Bacon, Double Smoked"",-24005.24,-422075"
+270,Vila Nova,1965-10-06,Energy Drink - Franks Pineapple,37617.28,758391
+"271,Lazaro Cardenas,2000-03-31,""Liners - Banana, Paper"",18677.52,-399135"
+272,Rongai,1983-05-21,Sambuca Cream,-8523.61,604590
+"273,Sukamaju,1992-12-11,""Syrup - Monin, Amaretta"",-63810.79,943315"
+274,Wenquan,2010-09-05,Cocoa Feuilletine,8419.59,477914
+275,Lazarevac,1949-02-19,Glaze - Apricot,62197.37,-719239
+276,Yangong,1988-03-16,Bread Fig And Almond,-89774.07,-831065
+"277,Vel’sk,1986-03-29,""Soup - Cream Of Broccoli, Dry"",-49818.66,880502"
+278,Rakitovo,1905-02-09,Tea - Green,-70771.49,-816192
+279,Jinjiang,1927-05-19,Extract Vanilla Pure,77793.59,-539881
+280,Huangtukuang,1924-09-02,Teriyaki Sauce,41532.08,74302
+281,Los Angeles,1915-01-25,Cheese - Camembert,-29843.23,-24208
+282,Avranches,1931-10-02,Cornstarch,24811.37,-718513
+283,Wuxia,1991-11-09,Bread - Crusty Italian Poly,-18044.44,-940717
+284,Wang Nam Yen,2014-03-19,Wine - Fino Tio Pepe Gonzalez,-41876.44,-872617
+285,Káto Asítai,1923-11-25,Muffin Carrot - Individual,-18056.32,-826787
+286,Duayaw Nkwanta,1986-11-29,Sweet Pea Sprouts,25530.18,-41548
+287,Yidao,1993-07-25,Cleaner - Comet,45941.29,-960438
+"288,Gweru,1922-07-02,""C - Plus, Orange"",78495.32,-102789"
+289,Hultsfred,1953-01-31,Chutney Sauce,-50084.45,-723609
+290,Halayhay,1971-03-02,Kahlua,46075.13,156682
+291,Piranshahr,1956-07-11,Cookies - Englishbay Chochip,-16564.89,-216165
+292,Shu,2001-08-21,Icecream - Dstk Cml And Fdg,81775.21,-575437
+293,Mbouda,1912-12-30,Chocolate Bar - Reese Pieces,-85501.74,-882815
+"294,Eindhoven,2019-11-20,""Nut - Almond, Blanched, Ground"",4096.35,960240"
+"295,Samara,1968-03-26,""Pork - Butt, Boneless"",58595.71,708105"
+296,Changgucheng,2001-07-30,Glaze - Apricot,85204.4,838815
+297,Gaide,1963-09-11,Jello - Assorted,11216.23,163000
+298,Yelkhovka,1917-06-14,Pastry - Butterscotch Baked,9864.07,-613723
+"299,Jarigue,1914-06-09,""Soup - Clam Chowder, Dry Mix"",-65572.39,890188"
+300,Złocieniec,1971-03-11,Container - Clear 16 Oz,-43037.23,-544678
+301,Lefkoniko,1988-11-22,Huck Towels White,42492.9,806372
+302,Ntungamo,1942-04-22,Tomatoes - Yellow Hot House,78687.99,-198869
+303,Xinghua,1957-11-27,Durian Fruit,-27623.26,-381857
+"304,Ipil,1947-11-26,""Brocolinni - Gaylan, Chinese"",94232.83,371844"
+305,Languan,1950-12-19,Soup - Campbells Chili,87506.62,-275075
+"306,Dengzhuang,1966-10-17,""Soup - Knorr, Chicken Noodle"",-25876.7,-491717"
+307,Vërtop,1992-10-11,Sole - Iqf,60397.58,423181
+308,La Cocha,1954-12-30,Juice - Apple 284ml,95725.81,943004
+309,Huanglong,1904-09-10,Lemons,-49095.0,860370
+310,Guiping,1925-06-27,Rice - Long Grain,38704.83,2923
+311,Néa Vrasná,1998-03-18,Orange Roughy 4/6 Oz,97723.77,325074
+312,Placetas,1973-04-19,Appetizer - Crab And Brie,-33578.4,-161497
+313,Beo,1933-04-27,Sherry - Dry,5311.68,-468860
+314,San José El Ídolo,2014-06-06,Beef Tenderloin Aaa,99316.41,634617
+315,Stari Banovci,1939-06-24,Butter Sweet,-23945.73,-355441
+316,Rumelange,1975-06-14,Carbonated Water - Peach,-96991.2,-938486
+317,Liběšice,1908-10-08,Mackerel Whole Fresh,62237.09,-9829
+"318,Yiyang,1922-07-02,""Bread - Dark Rye, Loaf"",-5024.94,-561902"
+319,Shumikhinskiy,1974-10-16,Tomato - Green,34451.64,517158
+320,Trebisht-Muçinë,1926-01-31,Bread Crumbs - Panko,-81902.0,-776082
+321,Mbaïki,2020-04-27,Pepper - Pablano,-83339.6,-930857
+322,Jargalant,1995-08-05,Teriyaki Sauce,17711.77,743537
+323,Alderetes,1901-03-16,Pepper - Yellow Bell,-54426.63,-137215
+"324,Nong Yai,1950-08-20,""Pasta - Canelloni, Single Serve"",910.96,-356379"
+325,Áyios Nikólaos,1967-09-17,Artichokes - Jerusalem,29940.01,88324
+326,Blatnica,1902-01-31,Meldea Green Tea Liquor,51571.0,-467232
+327,Krajan Caluk,2001-02-01,Cup - Paper 10oz 92959,82465.93,592161
+328,Raojān,1959-03-22,Wine - Rhine Riesling Wolf Blass,-69815.77,373961
+"329,Popielów,1929-02-28,""Tortillas - Flour, 12"",50031.75,-605233"
+330,Krajanbaturno,2014-06-09,Chinese Foods - Pepper Beef,67491.87,197917
+331,Karangpari,1964-02-02,Sambuca - Opal Nera,8313.11,-518097
+332,Vratsa,1952-11-09,Graham Cracker Mix,-60556.94,773430
+333,Villa Florida,1978-09-14,Venison - Ground,-83527.88,114109
+334,Nirgua,1961-03-18,Sour Puss Sour Apple,2991.27,64358
+335,Cergy-Pontoise,1912-03-08,Hinge W Undercut,-69869.69,-736272
+336,Guangpu,2018-03-28,Ham - Cooked Bayonne Tinned,29030.13,881843
+337,Moorreesburg,1925-01-17,Sun - Dried Tomatoes,82813.09,566728
+338,Helong,1969-09-20,Wine - Niagara Peninsula Vqa,-32347.61,775666
+339,Vukovije Donje,1991-04-10,Tea - Vanilla Chai,49208.13,987990
+"340,Arapiraca,2014-12-06,""Pepper - Chillies, Crushed"",13291.13,-536828"
+341,Capacho Nuevo,2000-04-22,Pork - Smoked Kassler,32072.16,94005
+342,Gia Ray,1904-05-24,Soup - Campbells Beef Stew,65236.44,88821
+343,Muang Pakxan,1989-11-27,Carbonated Water - White Grape,-5412.5,454029
+344,Tsenher,1990-11-21,Wine - Duboeuf Beaujolais,84956.97,-707285
+345,Paita,1908-07-28,Langers - Cranberry Cocktail,97747.45,207618
+346,Saint-Lambert-de-Lauzon,1946-02-12,Wine - Manischewitz Concord,-82951.83,-211010
+"347,Viengxay,1927-04-29,""Vinegar - Balsamic, White"",-78819.0,295623"
+348,Oof,1960-02-23,Blouse / Shirt / Sweater,-74767.28,-514100
+349,Wengtian,1946-08-24,Coffee Cup 16oz Foam,-66732.61,692882
+350,Lamotrek,1962-02-16,Chocolate Bar - Oh Henry,-56398.69,731703
+351,Wonotirto,1930-07-28,Beef Flat Iron Steak,-80086.57,-766158
+352,Las Americas,1939-10-23,Chocolate - Sugar Free Semi Choc,-65683.2,-210099
+353,Sumuran,1961-04-09,Cabbage - Green,835.3,-487986
+354,Tomari,1915-03-01,Wine - Fume Blanc Fetzer,76423.63,-731922
+355,Qianjiang,1935-01-25,Crackers - Graham,-55978.65,983504
+356,Rudnik,1912-07-31,Port - 74 Brights,49877.95,399678
+357,Yambol,1978-08-08,Scallops - Live In Shell,-46480.24,716454
+358,Al Ḩarajah,2011-02-08,Turkey - Oven Roast Breast,93776.32,-224074
+359,Hova,1939-09-11,Cookies - Englishbay Chochip,36251.06,-309303
+360,Macon,1996-08-28,Sole - Iqf,60903.08,-219275
+361,Xuanhuadian,1989-10-10,Ice Cream Bar - Rolo Cone,14925.97,-103167
+362,Breves,1968-01-11,Cups 10oz Trans,-94391.06,-876842
+"363,Tanuma,1928-07-14,""Wine - White, Cooking"",-19759.56,-809881"
+364,Shiree,1937-09-12,Cream Of Tartar,-79388.37,-569094
+365,Balung Barat,1996-09-29,Carrots - Mini Red Organic,-6123.43,277956
+366,Huazhaizi,1931-05-08,Apricots - Dried,96323.32,903456
+367,Asykata,1915-01-23,Sambuca - Ramazzotti,10937.6,868533
+368,Xiaolou,1977-02-01,Fireball Whisky,47098.08,-810718
+"369,Alor Setar,1999-05-05,""Tendrils - Baby Pea, Organic"",46536.04,652865"
+370,München,1986-05-09,Beer - Sleemans Honey Brown,-52457.28,22977
+371,Iradan,1992-12-24,Beer - Steamwhistle,-9842.25,501571
+372,Pale,1908-04-20,Oil - Shortening - All - Purpose,65712.07,-18818
+373,Sampaio,1949-03-22,Appetizer - Mushroom Tart,11070.09,573232
+374,Varjota,1999-03-19,Tart - Lemon,88075.73,-248106
+375,Karangan,1980-09-18,Wine - Merlot Vina Carmen,66889.77,641061
+376,Dunkerque,2020-03-16,Soup Campbells Mexicali Tortilla,40037.08,490718
+377,Aimorés,1902-03-15,Mint - Fresh,92622.62,934728
+"378,Mogi Mirim,1999-10-22,""Mushroom - Shitake, Dry"",-25817.43,506500"
+379,Daejeon,1928-03-19,Tumeric,-13850.61,44883
+380,Svalyava,2010-12-09,Juice - Apple 284ml,-32759.03,-272498
+381,Granard,1999-01-04,Brandy Apricot,-7391.58,-291732
+382,Bodega,1929-02-18,Pate Pans Yellow,-88707.07,551422
+383,Kenscoff,1990-03-30,Muffin - Zero Transfat,-27817.84,233695
+384,Balky,1934-06-07,Wine - Sauvignon Blanc Oyster,-8403.13,-844648
+385,Vynohradove,1953-09-10,Cheese Cloth,5476.98,586769
+386,Cravinhos,1912-02-26,Coffee Decaf Colombian,-68161.23,-436459
+387,Olmos,1902-09-27,Stainless Steel Cleaner Vision,-45519.92,824004
+388,Angao,1925-07-21,Snapple - Mango Maddness,-97070.73,857497
+389,Nanjin,2014-06-02,Chocolate - Liqueur Cups With Foil,-14386.79,205696
+390,Polevskoy,2014-12-27,Loquat,57956.74,122572
+"391,Kladno,1908-07-11,""Nut - Pistachio, Shelled"",79000.89,247511"
+"392,Llazicë,2012-02-11,""Pork - Bacon, Double Smoked"",-24733.98,99621"
+393,Bélabo,1973-10-18,Table Cloth 62x120 Colour,71423.25,-383797
+394,Asquipata,1956-11-03,Tuna - Bluefin,61074.24,-789227
+"395,Bindang,1981-05-04,""Tart Shells - Sweet, 3"",43475.81,-433419"
+396,Brejo Santo,1953-01-02,Lobster - Base,16027.51,-960249
+397,Tavira,1950-08-25,Food Colouring - Orange,75783.52,627717
+"398,Vale de Figueira,1904-02-12,""Wine - Red, Gallo, Merlot"",89660.64,26998"
+399,Liyang,1969-02-17,Milk - Chocolate 250 Ml,28534.22,656437
+400,Radeče,1933-07-30,Plums - Red,-63093.33,-348771
+401,Yushu,2020-01-26,Oats Large Flake,-10690.0,383645
+"402,Cortez,1911-05-24,""Rosemary - Primerba, Paste"",93283.57,970788"
+"403,São Sepé,1920-06-01,""Soup - Campbells, Lentil"",869.98,-940775"
+404,Fushan,2017-09-22,Jack Daniels,-73459.63,292767
+405,Outeiro Seco,1948-09-25,Container - Clear 32 Oz,-66108.86,302888
+406,Banawang,1981-08-11,Buffalo - Short Rib Fresh,-5490.24,11813
+407,Protaras,1912-08-27,Cauliflower,52179.64,-469627
+408,Volzhsk,1968-10-04,Cheese - Feta,-45961.62,-739846
+409,Santa Rosa,1915-02-25,Muffin - Mix - Bran And Maple 15l,25604.28,-521158
+410,Woloara,1991-04-29,Mustard - Seed,-92593.77,-919162
+411,Vol’nyy Aul,1952-08-11,Oil - Macadamia,90132.13,-646984
+"412,Duszniki-Zdrój,1987-10-27,""Wine - White, Gewurtzraminer"",-26526.98,258770"
+413,Changpu,2008-05-23,Hummus - Spread,85037.12,-419674
+414,Nam Khun,1903-05-24,Jolt Cola,86755.0,718942
+415,Gajiram,1949-08-14,Pastry - Apple Large,27616.24,555701
+"416,Aranhas,1978-12-15,""Veal - Brisket, Provimi,bnls"",-69418.76,887665"
+417,Wakema,1969-08-22,Icecream - Dstk Cml And Fdg,-42916.87,-38602
+418,Wulan Haye,1968-10-16,Chicken - Wieners,-78646.99,199937
+419,Araçuaí,1996-09-12,Arizona - Green Tea,64700.16,-507404
+420,Miami,1941-12-03,Cardamon Seed / Pod,42998.2,-173445
+421,Nanterre,1975-03-15,Sprouts - Corn,-83883.25,246053
+422,Safotulafai,1920-08-26,Bagel - 12 Grain Preslice,-28304.89,-137155
+423,Waalwijk,1905-09-04,Vinegar - Red Wine,-20553.3,-221897
+424,Maní,1977-08-10,Apple - Royal Gala,-53965.08,292564
+425,Lalig,1983-03-18,Wine - Chenin Blanc K.w.v.,-95746.97,706857
+426,Lugang,1903-06-12,Rye Special Old,-38255.22,-983157
+427,Jeding,1964-08-13,Chivas Regal - 12 Year Old,-26078.31,974766
+428,Xinglong,1902-04-07,Sesame Seed Black,78598.54,-78287
+"429,Xinsheng,1998-12-04,""Oil - Shortening,liqud, Fry"",9025.49,-808294"
+430,Dengfeng,1933-09-13,Energy Drink Bawls,-73982.41,643563
+431,San Silvestre,2004-03-04,Savory,-45644.24,520830
+"432,Iiyama,1992-08-25,""Artichoke - Bottom, Canned"",-39581.32,607635"
+433,Colatina,1941-12-10,Brandy Cherry - Mcguinness,26711.86,353258
+434,Qarah Bāgh,2013-10-29,Muffin Batt - Blueberry Passion,-22124.86,-779930
+435,Kedungcangkring,1930-10-16,Raisin - Dark,-9259.01,-22553
+436,Toledo,1926-11-07,Chocolate - Unsweetened,-23115.76,870435
+437,Ghayl Bā Wazīr,2007-01-24,Noodles - Steamed Chow Mein,-95499.42,120000
+438,Kampungbaru,2010-05-19,Dc Hikiage Hira Huba,85351.24,386671
+"439,Makata,1915-11-04,""Chilli Paste, Hot Sambal Oelek"",94800.07,292757"
+440,Shpola,1983-04-09,Pears - Bosc,68280.54,-402059
+441,Panaoti,2015-02-16,Soup - Verve - Chipotle Chicken,82814.36,456381
+442,Saint Paul,1909-05-30,Vaccum Bag 10x13,-30504.91,763488
+443,Dos Quebradas,1940-10-09,Quinoa,8396.14,545431
+444,Maurole,1962-07-19,Mace,18963.16,194316
+445,Daxi,1954-03-06,Beef - Eye Of Round,-35748.25,-791420
+"446,Shaheying,1913-03-12,""Doilies - 10, Paper"",9842.0,137540"
+447,Yingchuan,1935-12-22,Lettuce - Baby Salad Greens,-47511.92,52005
+"448,Amiens,1939-10-17,""Glass - Wine, Plastic, Clear 5 Oz"",-14103.98,-231094"
+449,Tqibuli,1938-03-13,Tea - Vanilla Chai,39425.62,-736905
+450,Bogdaniec,2008-09-24,Muffin Puck Ww Carrot,-21029.59,-967968
+451,Webuye,1963-05-23,Cheese - La Sauvagine,-48686.82,-112432
+452,Qiryat Shemona,1933-03-17,Creme De Cacao Mcguines,33918.69,-821909
+"453,Jönköping,1928-02-01,""Wine - Red, Cabernet Merlot"",84503.26,454353"
+454,Verkhnye Syn’ovydne,1981-01-02,Corn Meal,7358.94,489961
+455,El Tránsito,1958-12-23,Juice - Mango,-19565.72,-78079
+456,Rutana,1982-12-01,Wine - Cava Aria Estate Brut,-47416.96,879150
+457,Ouahigouya,1955-08-25,Skirt - 24 Foot,-69815.61,-819507
+458,Kuala Terengganu,1976-08-01,Remy Red,-62234.52,672845
+"459,Lembongan Kawan,2018-03-14,""Napkin - Dinner, White"",4131.75,668941"
+460,Pskov,1988-03-31,Eggroll,-67626.63,-872567
+"461,Clervaux,2020-05-22,""Bread - Rolls, Corn"",-51162.07,389099"
+462,Çobansığnaq,2009-03-17,Milk - Chocolate 500ml,-44732.19,760652
+"463,Gongchang,1917-11-13,""Capon - Breast, Double, Wing On"",58665.02,711808"
+"464,Dalamdesa Kalapadua,1990-07-16,""Nut - Peanut, Roasted"",21054.72,-964014"
+465,Buldon,2002-06-20,Trout - Smoked,1190.76,114442
+466,Baabda,1987-05-04,Creme De Cacao White,-25261.29,-435004
+467,Kolomak,1939-11-21,Crab - Imitation Flakes,-85085.99,-293246
+"468,Babakansari,1970-12-16,""Bread - Roll, Soft White Round"",12643.73,-766066"
+"469,Yemva,1999-11-01,""Rum - Light, Captain Morgan"",-19280.8,666657"
+"470,Huangtian,1938-12-05,""Nut - Hazelnut, Whole"",29027.86,421127"
+471,Colonia Minga Porá,2002-05-29,Currants,30338.53,-815731
+"472,Birmingham,1968-08-15,""Mushroom - Shitake, Fresh"",-68148.71,384655"
+473,Pärnu-Jaagupi,2012-04-26,Wine - Puligny Montrachet A.,-43992.53,239773
+474,Youfang,1980-11-17,Basil - Pesto Sauce,62836.75,-689555
+475,Sidi Lamine,1914-04-08,Tahini Paste,-63217.34,-523500
+476,Mali Iđoš,1974-08-13,Flour - Cake,14158.52,608636
+477,Chengzhai,1998-10-06,Rice - 7 Grain Blend,-47736.42,392796
+478,Ostojićevo,1906-04-26,Bread Ww Cluster,-16644.98,749525
+479,Malian,1914-08-27,Muffin Batt - Ban Dream Zero,-75001.88,729697
+"480,Kansas City,1936-03-27,""Mushroom - Enoki, Dry"",82683.6,-600268"
+481,Perpignan,2007-10-07,Arizona - Green Tea,95005.47,69184
+482,Qal‘ah-ye Kuhnah,1905-03-07,Lotus Leaves,69292.21,-701096
+483,Świdnica,1957-08-17,Tea Leaves - Oolong,7743.42,764718
+484,Fiditi,1942-02-09,Guinea Fowl,13346.64,-755505
+485,Parchowo,1983-06-11,Bread - Multigrain,-6443.8,783308
+486,Bureng,1949-03-29,V8 Splash Strawberry Kiwi,-62413.29,-299421
+"487,Lumbatan,1982-11-04,""Iced Tea - Lemon, 460 Ml"",29183.31,-468344"
+488,Tall Abyaḑ,1968-06-25,Shiro Miso,-37493.77,-171123
+489,Kebonbencoy,1973-12-15,Banana Turning,-19179.34,-99671
+"490,Kushiro,1963-02-26,""Wine - Red, Harrow Estates, Cab"",58380.15,-259894"
+"491,Chowṉêy,1908-01-26,""Nut - Almond, Blanched, Ground"",5331.96,-48784"
+492,Sanli,1933-11-13,Bacardi Mojito,-20127.54,301797
+493,Xiaozhoushan,1958-09-04,Paper - Brown Paper Mini Cups,-72313.42,710089
+494,Partang,1912-08-13,Coffee - Egg Nog Capuccino,20276.22,158247
+495,Qingduizi,1942-08-16,Pork - Backfat,-71889.75,93765
+"496,Sjöbo,1960-04-21,""Beans - Kidney, Red Dry"",48176.39,-2046"
+497,Uticyacu,1919-04-11,Muffins - Assorted,-27946.4,-833277
+498,Buenlag,1998-01-25,Beef - Tenderloin - Aa,81749.48,-186885
+499,Amiens,1951-02-21,Cookies Cereal Nut,72811.13,756634
+500,Berlín,1969-03-25,Orange Roughy 4/6 Oz,-42251.02,183316
+501,Gerdu,1905-06-01,Beef - Montreal Smoked Brisket,37952.0,416967
+"502,Singosari,1962-05-10,""Beef - Cooked, Corned"",-72999.25,-537918"
+503,Saga-shi,1935-04-17,Oil - Peanut,-59179.09,986764
+504,Lyon,1950-06-09,Halibut - Steaks,-18644.37,668815
+"505,Tangkou,1967-06-11,""Wine - Sherry Dry Sack, William"",-50678.13,247678"
+506,Askim,1921-08-17,Containter - 3oz Microwave Rect.,-3852.06,178334
+507,Vicente Guerrero,1903-01-16,Ice Cream Bar - Rolo Cone,74561.82,-994971
+"508,Banaybanay,1949-06-24,""Crab - Dungeness, Whole, live"",52866.82,-967864"
+509,Independencia,1926-07-11,Temperature Recording Station,-38628.0,458378
+510,Jiangqiao,1908-11-13,Pickerel - Fillets,35263.52,296429
+511,Sabang,1935-02-18,Ham Black Forest,56558.98,72119
+512,Jatirogo,1933-08-09,Chickensplit Half,71092.33,-728010
+513,Monte Aprazível,1902-11-10,Wine - Conde De Valdemar,-33213.63,653614
+"514,Qingliu,1945-02-10,""Crab - Claws, Snow 16 - 24"",-2244.75,42078"
+515,Cincinnati,1920-02-23,Oil - Hazelnut,-10974.83,65560
+516,Nis’oni,1990-07-12,Red Cod Fillets - 225g,53490.29,-400474
+"517,Saint-Pierre,1907-01-17,""Doilies - 8, Paper"",-15033.93,-299033"
+518,Enhtal,1975-06-14,Wine - Muscadet Sur Lie,-51202.44,386839
+"519,Bejucal,2020-11-17,""Hickory Smoke, Liquid"",53011.22,875845"
+520,Veghel,1995-07-14,Lamb Rack Frenched Australian,-43432.42,-644856
+521,Sainte-Anne-des-Plaines,1957-12-26,Veal - Bones,27144.46,478496
+522,Jeżów Sudecki,1982-08-22,Flavouring - Raspberry,63148.81,-626555
+"523,Al Ma‘baţlī,1967-07-21,""Salmon - Atlantic, Fresh, Whole"",-43374.12,316919"
+524,Luobuqiongzi,2019-06-04,Basil - Thai,46341.17,-979882
+"525,El Porvenir,1966-08-22,""Rum - Spiced, Captain Morgan"",50994.75,-742134"
+"526,Morje,2001-04-05,""Ice - Clear, 300 Lb For Carving"",41682.11,-202258"
+527,Knyaze-Volkonskoye,1954-11-10,Venison - Liver,59841.0,-557885
+528,Volovets,1990-01-16,Sausage - Blood Pudding,-19228.28,961956
+529,Ambelón,2007-04-13,Kirsch - Schloss,84162.43,-504308
+"530,Penha Longa,1970-08-02,""Stock - Veal, Brown"",-43659.75,-425218"
+531,’Unābah,1920-07-04,Puree - Pear,-61675.14,-460446
+532,N’dalatando,1981-06-13,Emulsifier,-5344.22,626913
+533,Yaguajay,1952-09-21,Water - Tonic,34717.51,-23262
+534,Myasnikyan,1983-08-11,Soup Campbells Beef With Veg,-95396.08,-580568
+535,Głuchołazy,1974-11-22,Rosemary - Fresh,-55259.68,-215887
+536,Qingtong,1961-07-21,Tia Maria,76506.4,19208
+"537,Kumagunnam,1921-01-18,""Appetizer - Mini Egg Roll, Shrimp"",29387.9,41315"
+538,Oslo,1903-03-23,Pepper - Sorrano,-63235.65,90521
+539,Najin,2006-04-12,Puff Pastry - Slab,95633.61,743616
+540,Kirovsk,1987-02-28,Bread - Calabrese Baguette,-2556.11,186614
+"541,Englewood,1920-06-17,""Sugar - Brown, Individual"",-31775.26,-922972"
+542,Montfort-sur-Meu,1938-03-24,Compound - Strawberry,44622.63,933422
+543,Lazaro Cardenas,1927-08-07,Tea - Decaf Lipton,-17202.48,473483
+544,Pontevedra,1942-10-14,Sobe - Lizard Fuel,-47944.84,-768218
+545,Ventanas,1960-06-03,Ice Cream - Life Savers,7185.32,648626
+546,Fraga,1985-07-27,Cup Translucent 9 Oz,99949.83,457466
+"547,Bongbong,1957-02-12,""Cake Circle, Foil, Scallop"",34175.27,-825366"
+548,Tipaz,1909-10-18,Wine - Masi Valpolocell,29360.08,722448
+549,Balboa,1982-05-27,Relish,6274.05,-180200
+"550,Gazojak,2002-12-27,""Cheese - Brie, Cups 125g"",54995.1,-544200"
+551,Perico,1985-04-20,Soup - Campbells Bean Medley,-39610.84,663619
+"552,Ouyang,1976-11-29,""Artichokes - Knobless, White"",40266.61,-431653"
+553,Kudang,1986-08-28,Soup - Campbells Chicken,-23079.73,-994414
+554,Nkurenkuru,1980-09-07,Cheese - Roquefort Pappillon,64740.15,-163901
+555,Klenak,1989-12-23,Juice - Apple Cider,6665.37,-910235
+556,Kuala Lumpur,1939-03-28,Cheese - Valancey,-23492.93,-138881
+"557,Marathókampos,1965-12-06,""Capon - Breast, Double, Wing On"",-30597.83,-28026"
+558,San Lucas Tolimán,1993-06-09,Bagelers,8059.16,-411384
+559,Jiangcheng,1972-10-31,Jameson Irish Whiskey,-1011.51,-327826
+"560,Planeta Rica,1946-06-24,""Chilli Paste, Sambal Oelek"",-19919.33,-30578"
+561,Bilaran,1973-06-27,Coriander - Ground,-5953.89,-38956
+562,‘Alīābād-e Katūl,2010-03-16,Lotus Root,12011.73,98559
+563,Tallahassee,1940-02-22,Beef - Cow Feet Split,68928.93,655570
+564,Belsk Duży,1985-10-27,Boogies,51894.47,175192
+565,Paulba,1981-01-25,Goat - Leg,5015.67,-388403
+"566,San Pedro,1916-01-16,""Turnip - White, Organic"",-26123.84,-62948"
+567,Leksand,1985-06-22,Oil - Avocado,2383.94,-792967
+568,Bistrica ob Sotli,2010-07-29,Vodka - Moskovskaya,67796.38,753142
+569,Huasahuasi,2020-05-22,Wine - Chablis 2003 Champs,-67038.23,-543087
+570,Jiangkou,1924-11-29,Potatoes - Idaho 100 Count,-19001.27,-228465
+571,Şaqānis,1946-07-23,Ice Cream - Chocolate,-96420.44,-205359
+572,Chechen-Aul,1973-06-08,Blueberries - Frozen,27508.06,293103
+"573,Augusta,2002-09-04,""Water, Tap"",-5136.63,-443487"
+574,Chibuto,1928-08-01,Kiwi,-63088.86,-267710
+"575,Proboštov,1913-12-14,""Onions - Dried, Chopped"",-38670.01,516089"
+576,Punolu,1902-03-08,Muffin Hinge 117n,-22924.6,617325
+"577,Lāmerd,1994-05-19,""Pasta - Shells, Medium, Dry"",96573.51,803210"
+578,Fuhai,1944-09-11,Cheese - Roquefort Pappillon,-56262.22,602535
+579,Al Jahrā’,1925-12-05,Pear - Asian,89061.21,705335
+580,Kisangani,1965-04-11,Iced Tea Concentrate,-25888.65,-681607
+581,Semanding,2002-09-24,Foil Cont Round,83498.88,-407251
+582,Xiaowuzhan,1969-05-16,Lambcasing,-56046.52,252318
+583,Zhaixi,2019-04-09,Wine - Bouchard La Vignee Pinot,-73581.89,-581224
+584,Budrus,1962-11-13,Vinegar - Champagne,39458.89,-412345
+585,Sanchahe,1981-05-29,Broom And Broom Rack White,41690.3,-716409
+586,Gaibei,1919-11-18,Tea Leaves - Oolong,96546.36,21781
+587,Porecatu,2009-01-28,Nantucket - Kiwi Berry Cktl.,34566.14,-943722
+588,Antaparco,1971-01-28,Jameson - Irish Whiskey,22179.86,730469
+589,Mikhaylovsk,1970-01-10,Bulgar,83507.32,575852
+"590,Hřebeč,1943-07-31,""Asparagus - White, Canned"",-65379.08,-802347"
+591,Banikoara,1964-07-13,Beans - Kidney White,45350.26,429739
+592,Ejmiatsin,1923-04-16,Sansho Powder,15539.07,917296
+"593,Reykjanesbær,1933-11-03,""Pasta - Canelloni, Single Serve"",-78079.1,-934467"
+594,Olszówka,2007-04-27,Wine - Delicato Merlot,24502.35,934159
+595,Chashnikovo,1988-04-15,Venison - Striploin,71958.0,-234659
+596,Taodian,1909-05-29,Vinegar - Red Wine,-31458.9,-957919
+"597,Kabukarudi,1905-05-31,""Quail - Whole, Boneless"",-48633.43,-631573"
+598,Bani,2012-08-19,Chicken Breast Halal,-3886.63,-537667
+"599,Fengxian,1906-01-26,""Star Anise, Whole"",-22795.49,388221"
+600,Wangcun,1966-03-26,Pork Casing,45690.15,-215001
+601,Rizal,1934-02-18,Wine - Casillero Del Diablo,-37441.99,-865314
+602,Karangan,1933-09-14,Jolt Cola - Electric Blue,97074.62,-985584
+603,El Calvario,1942-08-12,Wine - Balbach Riverside,-76524.42,72588
+604,Boavista,1975-03-21,Cookies Oatmeal Raisin,-24481.83,-879586
+605,Barguzin,1979-12-11,Sponge Cake Mix - Chocolate,66327.3,812527
+606,Huangzhan,2004-07-27,Milk Powder,88464.95,169392
+607,Brailiv,1975-09-10,Hummus - Spread,68556.21,897579
+608,Koshki,1919-06-28,Apple - Fuji,48929.6,535361
+609,Balky,1989-04-20,Bread - English Muffin,79418.27,-873936
+610,Xunqiao,1923-08-16,Wine - Cabernet Sauvignon,62883.81,-784091
+611,Porlamar,1980-09-25,Wanton Wrap,15572.46,-823663
+612,Toroy,1982-03-08,Wine - Alicanca Vinho Verde,-34698.13,-756853
+613,Makariv,1941-01-31,Snapple - Iced Tea Peach,18072.48,112017
+614,Leteki,1919-06-12,Wine - Fontanafredda Barolo,42547.28,-31894
+615,Quận Sáu,1962-12-15,Bread - Focaccia Quarter,31489.24,449842
+"616,Chengdong,1949-05-04,""Tortillas - Flour, 10"",16625.37,-981193"
+617,Dianzi,1980-05-27,Beer - Upper Canada Light,1990.07,-979824
+"618,Terbangan,1944-04-27,""Sugar - Sweet N Low, Individual"",38333.65,827279"
+619,Tendō,2001-06-21,Wine - Magnotta - Pinot Gris Sr,-23301.67,185488
+620,Il’inskiy Pogost,1926-12-28,Garam Masala Powder,-33066.73,412887
+621,Wolongquan,1977-05-07,Lid Tray - 12in Dome,-86645.73,61104
+"622,Quintinha,1977-12-15,""Pepper - Chipotle, Canned"",26449.9,-401362"
+623,Desamparados,1985-09-03,Wine - Valpolicella Masi,49283.06,-701430
+624,José de Freitas,1953-10-03,Cheese - Montery Jack,-44062.59,663575
+625,Lilin Satu,1947-01-15,Cheese - Valancey,-59871.37,-381707
+626,Bilao,1985-08-17,Sausage - Breakfast,-79034.23,-138536
+627,Xin’an,1941-06-29,Sprouts - Brussel,-24342.87,-210197
+628,Emiliano Zapata,1965-09-17,Heavy Duty Dust Pan,-30230.65,-608948
+629,Nizhniy Lomov,1989-07-16,Praline Paste,-93782.19,413450
+630,Perpignan,1920-06-28,Wine - Charddonnay Errazuriz,-63501.32,-374114
+631,Hobart,1935-11-05,Lemonade - Pineapple Passion,-91518.58,500443
+632,São Gonçalo do Amarante,1905-02-11,Chocolate - Chips Compound,-46992.48,-286753
+633,Lugouqiao,1966-10-13,Lobster - Tail 6 Oz,-25319.83,553019
+634,Gitega,1950-05-29,V8 - Vegetable Cocktail,-79839.85,-273681
+635,Šavnik,2001-11-18,Pastry - Banana Tea Loaf,58568.58,-576992
+636,Emiliano Zapata,1941-03-02,Carrots - Mini Red Organic,-68429.19,372280
+637,Waoundé,1914-01-03,Pie Shell - 5,71889.08,-241491
+638,Bijaepasu,2004-07-02,Beer - Original Organic Lager,68097.36,-195525
+639,Ma’ao,1983-05-06,Pork - Bacon Cooked Slcd,67078.0,109231
+640,Shunling,1942-06-29,Sprouts - Alfalfa,70190.65,-329007
+641,Garawati,1972-02-25,Wine - Pinot Noir Latour,35740.16,-360632
+642,Rufino,1914-01-30,Bread - Sour Batard,-89708.32,-806435
+643,Washington,1906-05-21,Coffee Decaf Colombian,22706.38,-519648
+644,Lesogorsk,1964-01-31,Soup - Campbells Broccoli,49734.04,-140055
+"645,Recife,1971-04-02,""Yogurt - Peach, 175 Gr"",-56371.44,856751"
+646,Sujitan,2014-08-19,Steampan - Lid For Half Size,86328.77,-724554
+647,Shixi,2010-09-29,Cookies Almond Hazelnut,13949.48,391944
+648,Calumpang,2006-04-25,Container - Clear 32 Oz,84595.5,-313057
+649,Prince Rupert,1962-11-11,Pepper - Sorrano,-43264.0,610739
+"650,Engure,1917-01-21,""Mushroom - Morels, Dry"",14171.92,794528"
+651,Františkovy Lázně,1989-03-05,Cheese - Ermite Bleu,-30983.23,-990643
+652,Līvāni,2018-11-21,Beer - Paulaner Hefeweisse,10328.97,-659165
+653,Shatoujiao,1952-07-29,Chinese Foods - Chicken Wing,97763.83,901369
+654,Doong,1993-03-12,Heavy Duty Dust Pan,-2548.48,-24625
+655,Lyubokhna,2002-07-08,Plastic Wrap,8052.36,174053
+"656,Arnhem,1905-02-06,""Bread - Pita, Mini"",-33173.23,-708583"
+657,Shibi,2014-05-24,Wine - Alicanca Vinho Verde,-26406.09,-944141
+658,Kukulu,1958-12-14,Beans - Fine,-22091.95,-99391
+659,Lamarosa,2017-05-31,Sprouts - China Rose,41531.91,-89395
+660,Empório,1908-04-19,Cranberry Foccacia,-23592.12,513700
+661,Brooklyn,1968-07-21,Mix - Cocktail Strawberry Daiquiri,-33972.96,100915
+662,San José de Jáchal,1932-09-20,Sobe - Berry Energy,98085.63,-253083
+663,Bukovany,1948-09-13,Jolt Cola - Red Eye,-19998.84,815080
+"664,Neochóri,2001-05-26,""Shrimp - 16/20, Iqf, Shell On"",-20760.73,-800999"
+665,Jinhua,1917-12-31,Olive - Spread Tapenade,-6435.59,739721
+"666,Murmansk,1947-06-13,""Wine - Red, Marechal Foch"",-82853.61,-136179"
+"667,Nūsay,1909-08-30,""Juice - Orange, 341 Ml"",-74953.48,-771470"
+668,Tohautu,2020-02-24,Persimmons,34943.18,-510520
+669,Naekan,1991-06-21,Wine - Chateau Bonnet,-44269.56,765894
+670,Krasnyy Klyuch,1997-09-12,Monkfish - Fresh,89307.45,-556413
+"671,Trondheim,1910-06-16,""Pasta - Lasagne, Fresh"",70960.75,593891"
+672,Yangdian,1994-02-14,Cookie Dough - Oatmeal Rasin,52807.26,290884
+673,Aix-en-Provence,2004-07-22,Steampan Lid,-14280.27,-902034
+674,Shuangxi,1996-09-20,Browning Caramel Glace,-55148.27,601406
+"675,Povenets,1906-08-09,""Sole - Dover, Whole, Fresh"",96460.51,-715961"
+676,Solna,1957-10-29,Alize Red Passion,77608.05,-809137
+677,Bošnjaci,1953-01-10,Fudge - Cream Fudge,-3753.43,910902
+678,Paccho,2004-04-30,Soup - Campbells Pasta Fagioli,2812.87,-664534
+679,La Breita,1990-06-14,Puree - Strawberry,-69723.67,468517
+680,Muting,1911-09-19,Urban Zen Drinks,78718.18,-765037
+681,Zarzis,2005-09-16,Wasabi Paste,16602.05,446902
+682,Shangkuli,1924-01-23,Bread Base - Toscano,-53416.01,-914939
+683,Mahdishahr,1970-11-30,Coffee Cup 12oz 5342cd,-82205.87,-759916
+684,Houxi,1943-11-06,Sour Puss - Tangerine,49319.15,-205810
+685,Leping,1999-08-23,Pear - Packum,52233.44,-927752
+686,Bolgar,1931-10-28,Steamers White,-38522.6,835497
+"687,Botoh,2016-08-17,""Nut - Peanut, Roasted"",36268.5,466342"
+688,Hongkeli,2017-08-20,Pepperoni Slices,-39745.43,-203077
+689,Takehara,1924-07-15,Water - Evian 355 Ml,34271.32,-508108
+690,Ranchuelo,1938-09-12,Wine - Hardys Bankside Shiraz,17104.72,-36283
+691,Wufeng,1904-03-01,Filter - Coffee,37629.14,959074
+692,Zakliczyn,2020-12-25,Lotus Rootlets - Canned,-39968.48,443543
+693,Zmiennica,1984-12-13,Coffee Cup 8oz 5338cd,14252.12,168752
+694,Zaghouan,1925-10-13,Kale - Red,23830.72,-525111
+"695,Gustavsberg,1985-12-31,""Oil - Food, Lacquer Spray"",27230.97,829339"
+696,Curuzú Cuatiá,1994-02-24,Muffin Hinge 117n,95977.13,497386
+697,Strelka,1930-11-10,Mix - Cocktail Strawberry Daiquiri,86761.55,424434
+698,Tahe,2016-09-25,Mustard - Individual Pkg,-87530.2,779680
+"699,Falköping,1929-11-10,""Lamb - Leg, Boneless"",89038.28,190567"
+700,Mezhdurechensk,1926-10-06,Pepper - Red Bell,98532.04,-745007
+701,Gontar,1979-11-05,Soap - Pine Sol Floor Cleaner,9655.62,-279094
+"702,Mangas,1906-07-02,""Pepper - White, Ground"",-64115.34,-244156"
+703,Shanghang,1978-10-09,Oil - Coconut,-84047.61,166420
+704,Malonty,1939-01-17,Wine - Zonnebloem Pinotage,74528.59,-217051
+705,Kara Suu,1923-05-27,Bread - Flat Bread,-89942.42,898821
+"706,Wilkes Barre,1955-12-28,""Tart Shells - Sweet, 2"",53180.15,180720"
+707,Mistrató,1903-04-20,Wine - Chenin Blanc K.w.v.,-95855.97,84546
+708,Brněnec,2010-11-02,Soup - Campbells Beef Noodle,-51014.58,494572
+709,Ait Ali,1908-01-21,Cup - Paper 10oz 92959,30817.09,688985
+710,Gonça,1996-07-27,Coffee - Ristretto Coffee Capsule,-69453.88,321462
+711,Longshan,1978-11-28,Coffee - Frthy Coffee Crisp,68590.92,674366
+"712,Shinpokh,1902-05-15,""Syrup - Monin, Swiss Choclate"",-80056.82,-618843"
+713,Mergayu,1908-06-10,Coffee - Frthy Coffee Crisp,12000.03,-647038
+714,Łaziska Górne,1943-12-07,Cookie Chocolate Chip With,-65780.38,396578
+715,Socota,1934-05-03,Vol Au Vents,-3429.51,-202787
+716,Dong’an,1979-12-19,Cakes Assorted,53373.0,95847
+717,Ferreira do Alentejo,1980-08-22,Soup - Chicken And Wild Rice,93860.09,442760
+718,Luqiao,1936-12-08,Pie Pecan,70880.09,-213248
+719,Carlsbad,2001-06-01,Sage - Rubbed,25323.04,-527978
+"720,Tembol,2009-12-14,""Crab - Blue, Frozen"",78623.91,-216876"
+721,Jeremi,2016-09-17,Swiss Chard,67896.03,-886434
+"722,General Conesa,1931-07-18,""Jam - Marmalade, Orange"",-72942.03,741647"
+723,Taiobeiras,1951-09-15,Mix - Cappucino Cocktail,59779.29,607454
+724,Rodas,1968-10-30,Skewers - Bamboo,-46904.26,-520088
+"725,Gulonggang,1992-03-10,""Wine - Red, Pelee Island Merlot"",37744.6,85287"
+"726,Delvinë,1994-04-02,""Syrup - Monin, Swiss Choclate"",-63406.94,370108"
+"727,Philadelphia,1997-06-13,""Wine - Red, Harrow Estates, Cab"",-25180.22,574462"
+728,Michurinskoye,1974-03-05,Eggplant - Asian,-8128.88,-474767
+"729,Pu’er,1918-05-14,""Nut - Almond, Blanched, Ground"",-90718.47,-66757"
+730,Kaparéllion,2013-02-04,Wine - Pinot Noir Latour,-31447.98,-132748
+731,Taixi,1944-12-31,Wine - Lamancha Do Crianza,8567.43,-956600
+732,Skála,1982-10-18,Olives - Nicoise,-19304.14,-573316
+733,Paris 13,1950-11-07,Pastry - Cheese Baked Scones,-85166.65,-509559
+734,Shijiazhuang,1996-01-03,Muskox - French Rack,20906.04,-898902
+735,Čajniče,1944-06-29,Sauce Tomato Pouch,-28015.76,-268747
+736,Houjia,1976-08-01,Grenadillo,80431.42,735583
+737,Kuala Terengganu,1905-02-27,Soup - Base Broth Chix,78448.43,-678705
+738,Anjepy,1925-06-15,Soup - Chicken And Wild Rice,43762.89,110737
+739,Fenjie,1946-01-19,Slt - Individual Portions,-4282.61,240964
+740,Hangzhou,1962-11-28,Bag Clear 10 Lb,79805.72,-453355
+741,Llano de Piedra,1949-04-08,Scallop - St. Jaques,20998.74,113958
+742,Kawm Ḩamādah,1906-08-28,Cranberries - Fresh,-21726.72,-655151
+743,Amphoe Sikhiu,1958-05-22,Halibut - Fletches,16241.65,-763039
+744,Gusau,1933-01-26,Milk Powder,56269.58,-604516
+745,Vasilikón,2014-05-27,Eggplant Italian,-76462.7,-582224
+746,Los Lotes,1958-06-13,Lettuce - Romaine,-96297.67,720807
+747,Guancangping,1962-10-07,Apple - Northern Spy,90985.94,-952509
+748,Bagumbayan,1950-09-15,Beer - Molson Excel,-62162.04,200238
+749,Leshukonskoye,1921-08-08,Coffee - Frthy Coffee Crisp,-8377.74,-972501
+750,Kotabaru,1991-05-01,Cardamon Seed / Pod,-84419.98,788119
+751,Kuantan,2016-12-10,Table Cloth 91x91 Colour,22351.09,233539
+752,Kardzhin,2011-12-24,Veal - Osso Bucco,-22711.42,-317480
+753,Nashville,1925-09-19,Crackers - Melba Toast,-79281.87,90568
+754,Shuangqiao,2014-04-20,Tea - Honey Green Tea,-38516.81,-335736
+"755,Jangas,1975-03-07,""Soup - Cream Of Broccoli, Dry"",50467.45,955161"
+756,Licheng,1911-06-28,Peach - Fresh,-97147.51,-368276
+"757,Liucun,2010-06-13,""Beef - Outside, Round"",2980.09,-319357"
+758,Pasar Kulon,2000-09-23,Figs,63948.68,-494850
+759,Monaghan,1957-10-21,Table Cloth 53x53 White,75122.47,-554693
+"760,La Virtud,1924-04-29,""Leeks - Baby, White"",28176.74,-890680"
+761,Longfengshan,2016-05-19,Lettuce - Treviso,86035.52,-221705
+762,Lipiany,1967-01-05,Fond - Chocolate,-25585.35,-456479
+763,Fanzhuang,1934-09-03,Eggplant Oriental,59431.02,-37869
+764,Rio Claro,1935-11-13,Raisin - Dark,-38560.12,-131272
+765,Zhichanghe,1966-10-15,Sprouts - Bean,91609.27,771476
+766,Khalkhāl,1979-12-01,Butter Balls Salted,-97811.65,314428
+767,Sevan,1902-08-02,Wine - Sawmill Creek Autumn,-99507.02,-747659
+768,Chalu,1942-02-25,Rootbeer,37594.46,477014
+769,Dolsk,2013-08-28,Napkin White - Starched,-36806.7,-983067
+770,Karoya,1903-04-28,Tia Maria,31151.73,138644
+771,Letsheng,1973-12-05,Juice - Prune,90192.67,290324
+772,Río Bueno,2017-07-05,Garlic - Peeled,29747.19,816240
+"773,Edsbyn,1961-12-13,""Salsify, Organic"",-87608.48,917169"
+774,Maramag,1946-04-13,Chocolate Liqueur - Godet White,-35434.91,306998
+775,Järfälla,1935-12-13,Sauce - Cranberry,7368.39,128230
+776,Aoshi,1942-10-28,Oil - Cooking Spray,-71574.57,-107656
+777,Huineno,1936-11-23,Trueblue - Blueberry 12x473ml,-7785.57,-121321
+778,Karangnongko,1979-05-19,Pate - Cognac,41044.09,-730160
+779,Petrovskoye,1927-09-18,Juice - Mango,-61204.6,-830653
+780,San Carlos de Bariloche,2012-09-01,Soup Campbells - Italian Wedding,-29165.36,-691554
+781,Seleuš,1928-02-20,Kiwi Gold Zespri,-61835.1,-53339
+782,Namora,1936-05-22,Muffin Mix - Blueberry,16885.21,626837
+783,‘Afak,2018-01-07,Longos - Grilled Veg Sandwiches,89449.8,-880213
+784,Krajandadapmulyo,1936-12-09,Wine - Chardonnay South,-50982.92,-41067
+785,Mancogeh,1948-10-29,Island Oasis - Strawberry,-8471.94,-155090
+786,Kvasice,1952-04-09,Turkey - Oven Roast Breast,9483.33,365012
+787,Stavropol’,1947-08-23,Pastry - Choclate Baked,-96381.52,658803
+788,Xiehu,1932-02-27,Juice Peach Nectar,59979.47,-777210
+789,Claye-Souilly,2008-01-14,Remy Red Berry Infusion,69170.09,57032
+790,Ostravice,1983-02-22,Buttons,92737.84,757540
+791,Qesarya,1951-10-16,Tomato Paste,-12295.21,673839
+792,Victoria,1958-01-04,Cabbage - Green,22799.54,-221900
+793,Conceição da Abóboda,2018-01-29,Tomatoes - Hot House,-16253.04,954197
+794,Kristiansund N,1930-12-24,Brandy Apricot,12747.6,-439546
+795,Kokologo,1955-05-05,Lettuce - Escarole,-75105.0,885248
+796,Néa Sánta,1959-11-04,Calypso - Lemonade,-15340.53,-348157
+797,Klevan’,2003-01-06,Octopus,-93519.17,532758
+798,San Francisco Zapotitlán,1989-04-15,Glove - Cutting,-39597.92,80549
+799,Shicang,2008-07-07,Chocolate - Milk Coating,-33116.71,430196
+"800,Quaraí,1981-08-19,""Beef - Ground, Extra Lean, Fresh"",74684.09,-246512"
+801,Esquipulas Palo Gordo,1909-05-30,Ginger - Crystalized,98364.1,980657
+"802,Luxia,1925-05-09,""Pork - Ham, Virginia"",-97510.78,879644"
+803,Maria Cristina,1959-05-18,Soup - Campbells - Chicken Noodle,-80963.57,213198
+804,Cerro Punta,1949-07-31,Muffin Mix - Corn Harvest,-51548.51,834971
+"805,Nakhon Luang,1919-07-20,""Olives - Black, Pitted"",-68313.2,810487"
+806,Pueblo Nuevo,1904-04-07,Spinach - Frozen,-22188.69,84544
+807,Ilhabela,2007-09-03,Tomatoes - Heirloom,-1271.43,684057
+808,Xiahong,1985-02-08,Broom - Push,15460.37,-804765
+809,Qaţanah,1976-05-28,Dawn Professionl Pot And Pan,-7149.88,-462220
+810,New York City,1975-12-16,Vacuum Bags 12x16,-38674.93,-708731
+811,Buriram,1967-10-13,Sauce Tomato Pouch,36923.98,-622004
+"812,Plaza Huincul,2006-12-10,""Basil - Dry, Rubbed"",20945.35,991269"
+813,Lo Prado,1967-11-29,Bread - Petit Baguette,-8353.5,522379
+814,Rikitea,1948-04-28,Fruit Salad Deluxe,-17335.18,-946944
+815,Longmen,1924-11-27,Squash - Pepper,-66579.63,-547847
+816,Xinhe,1983-03-04,Wine - Redchard Merritt,-81356.1,775432
+817,Hongmiao,1930-04-17,Red Cod Fillets - 225g,72544.87,-456296
+818,Tiwi,1986-06-16,Cabbage - Savoy,-19740.79,395201
+"819,Borlänge,1970-12-19,""Wine - Magnotta, White"",65814.09,-666424"
+820,Comapa,1908-01-24,Towel Multifold,52205.51,656502
+821,Spasskoye,1996-08-15,Soup - Campbells Beef Stew,79500.46,185512
+822,Barotac Nuevo,1921-05-24,Mangoes,9919.33,124528
+"823,Saint-Louis,1946-02-28,""Sauce - Soya, Light"",85889.61,743505"
+824,Oyo,1942-02-02,Potatoes - Peeled,34391.08,343343
+825,Guyancourt,2008-12-05,Wine - Fume Blanc Fetzer,-96037.56,-868189
+826,Mo I Rana,2004-01-20,Cheese - Gouda,20562.02,-569213
+827,Baoshi,1982-03-30,Bread - 10 Grain,33060.75,413561
+828,Budaka,1977-05-04,Pepper - Red Bell,-43245.43,-971649
+829,Bulongji,2004-07-29,Cheese - Pied De Vents,2102.4,-298937
+830,Město Libavá,1975-01-20,Broom - Push,-94221.84,66367
+831,Hāsilpur,2011-05-25,Canada Dry,12364.99,-399592
+"832,Yiyang,2010-12-16,""Pork - Tenderloin, Fresh"",-54617.38,696699"
+833,Puerto de Nutrias,1979-10-18,Sugar - Invert,-49731.5,746646
+834,Wangwu,1954-06-24,Coffee - Flavoured,-94817.34,803647
+835,Duque de Caxias,1923-12-10,Cream Of Tartar,-364.65,-100753
+836,Rajhradice,1922-06-21,Cookie Dough - Chocolate Chip,-28060.82,112541
+"837,Povorino,1904-09-26,""Juice - Clamato, 341 Ml"",63648.83,168478"
+838,Nan’an,1992-01-27,Initation Crab Meat,23017.49,-665600
+839,Grenoble,1939-03-23,Sambuca Cream,-58033.44,-232881
+840,Los Pinos,1994-04-12,Cookies - Englishbay Wht,-20460.05,258932
+"841,Piru,1922-07-12,""Basil - Primerba, Paste"",-72004.16,311220"
+842,Sobreira,1915-04-03,Sprouts Dikon,39477.96,-724568
+"843,Shayu,1996-11-06,""Nut - Chestnuts, Whole"",94023.38,-443504"
+844,Huancaray,1930-09-16,Shichimi Togarashi Peppeers,67359.83,921626
+845,Varoška Rijeka,1961-12-01,Butter Balls Salted,-39721.45,411072
+846,Dingle,1973-09-11,Arrowroot,-16759.19,52658
+847,San Casimiro,1937-01-24,Ham - Black Forest,8398.23,245001
+848,Salam,2016-12-08,Magnotta Bel Paese Red,-68421.61,-597207
+849,Al Azraq ash Shamālī,1954-08-05,Flour - Cake,-12517.47,-603507
+850,Ryazhsk,1968-10-09,Wine - Masi Valpolocell,-41055.13,159600
+851,Vallehermoso,1995-04-30,Yoplait - Strawbrasp Peac,6477.0,-700043
+852,Pegongan,1973-08-05,Lettuce - Belgian Endive,8290.83,293070
+853,Auna,1983-01-09,Jerusalem Artichoke,-22169.63,-217109
+854,Salacgrīva,1967-10-25,Nectarines,96732.97,577159
+855,Shuikou,2013-10-17,Chickhen - Chicken Phyllo,61212.17,-767213
+"856,Lebedyan’,1911-07-18,""Sugar - Brown, Individual"",-6004.79,25824"
+857,Vicente Guerrero,2001-10-13,Ginger - Ground,45114.41,540150
+858,Albina,1923-08-21,Ice Cream - Life Savers,-70082.81,438850
+859,Pehuajó,1990-10-01,Bread Ww Cluster,-63066.52,-306865
+860,Cartagena,1970-10-28,Cup - 4oz Translucent,285.81,-185865
+861,Sumenep,1932-03-14,Wine - Red Oakridge Merlot,-48168.87,221383
+862,Oodweyne,1981-11-08,Spring Roll Veg Mini,45938.88,35523
+863,El Tejocote,1967-04-28,Cinnamon - Ground,-9295.18,-290076
+864,Sungaikakap,1912-08-12,Bread Roll Foccacia,70160.4,-103555
+865,Tocha,1901-01-02,Lighter - Bbq,42964.44,-296994
+866,Bourges,2013-07-11,Bag - Clear 7 Lb,17614.09,-969742
+867,Selorejo,1974-09-02,Oven Mitt - 13 Inch,-9770.65,378889
+868,Thị Trấn Thanh Lưu,1929-02-13,Cornstarch,7279.25,525018
+869,Kota Kinabalu,1997-07-31,Clam Nectar,31097.24,719247
+870,Abóboda,2012-04-24,Pastry - Baked Cinnamon Stick,59539.62,757521
+871,Sipoholon,1954-08-19,Longos - Lasagna Veg,1564.43,-137910
+872,San Juan,1992-10-29,Plasticforkblack,54213.51,853985
+873,Nkandla,2006-02-23,Lamb - Shoulder,-17408.0,-363077
+"874,Kolonowskie,1975-08-21,""Crab - Back Fin Meat, Canned"",-34541.68,995510"
+875,Matingain,1968-03-09,Wine - Zonnebloem Pinotage,-83586.31,930800
+"876,Butajīra,1998-08-31,""Wine - Red, Pelee Island Merlot"",9373.11,-406957"
+877,Tegalgunung,1933-05-20,Beets,-63734.14,-976274
+878,Glagahan,1967-01-20,Wine - Fontanafredda Barolo,80701.89,-677408
+879,Bundoran,1954-10-15,Plate Foam Laminated 9in Blk,31304.59,-796641
+880,Gudja,2006-09-01,Dasheen,24834.45,303236
+881,Öjebyn,1905-12-25,Pie Pecan,87029.59,144940
+"882,Lexington,1904-06-27,""Wine - White, Ej Gallo"",76050.76,676096"
+883,Sayansk,1977-09-24,Coffee - Almond Amaretto,20527.63,547783
+884,Lanipao,1905-06-17,Lettuce - Boston Bib - Organic,-8121.01,382459
+885,Leijiadian,1902-07-11,Pears - Fiorelle,-31277.97,858090
+886,Leuwihalang,1910-11-02,Wine - Gato Negro Cabernet,4907.7,-661315
+887,Dayanggezhuang,1951-07-12,Bar Nature Valley,93471.68,14471
+"888,Mâcon,1975-06-18,""Soup - Canadian Pea, Dry Mix"",90073.0,80563"
+889,Si Prachan,1978-11-11,Pepper - Cayenne,52256.63,265280
+890,Youxi,1901-06-29,Trueblue - Blueberry,-37014.61,-671829
+"891,Lafayette,2007-08-05,""Butter - Salted, Micro"",-85557.55,885354"
+892,Metz,1958-04-05,Ecolab - Hand Soap Form Antibac,-73723.65,-252638
+"893,Kasserine,1932-08-01,""Wine - Red, Colio Cabernet"",-2239.0,650351"
+894,Qinghua,1983-03-24,Ecolab - Hand Soap Form Antibac,-18452.44,675183
+895,Beruniy,1974-10-21,Kellogs Raisan Bran Bars,-72393.48,-128581
+"896,Kunyang,1994-04-15,""Arctic Char - Fresh, Whole"",-63646.03,727073"
+897,Waimangura,1973-10-30,Wanton Wrap,28312.1,-405
+898,Xujia,1960-11-06,Cheese - Blue,-66633.38,858214
+899,Karlstad,1909-12-27,Salt - Seasoned,-90278.62,652179
+"900,Podwilk,1991-06-27,""Pasta - Fettuccine, Dry"",43386.65,487693"
+901,Unidos,2015-07-26,Lemon Pepper,-98159.64,-438831
+"902,Visby,1910-04-20,""Leeks - Baby, White"",-96543.17,63372"
+"903,Bakan,1961-10-14,""Cookies - Oreo, 4 Pack"",35832.39,999105"
+904,Sumberjati,1973-01-31,Mix - Cocktail Ice Cream,51614.37,108246
+"905,Rokitno Szlacheckie,1968-11-06,""Lid - Translucent, 3.5 And 6 Oz"",20255.91,879801"
+"906,Rizal,1998-03-11,""Coffee - Colombian, Portioned"",34834.37,215791"
+907,Vadstena,1940-02-01,Veal - Osso Bucco,68861.33,812872
+908,Mizur,2012-10-19,Bulgar,-37319.74,-416929
+909,Janūb as Surrah,2003-08-14,Cheese - Camembert,59901.75,929582
+910,Złota,1960-02-02,Gatorade - Lemon Lime,-87537.07,41551
+911,Tsirang,1980-03-26,Hummus - Spread,81081.25,-826944
+912,Tpig,1977-09-13,Sauce Tomato Pouch,56465.47,-30957
+913,Jingdezhen,1963-06-13,Tart - Lemon,-80397.01,900888
+914,Wasquehal,2018-02-17,Gloves - Goldtouch Disposable,92621.34,-598305
+915,El Benque,1908-11-15,Flour Pastry Super Fine,-77205.33,-701873
+916,Rujewa,2007-01-01,Juice - Prune,4394.07,741883
+917,Simnas,1922-04-07,Muffin - Carrot Individual Wrap,-97095.77,-973228
+918,Río Grande,1946-10-18,Flour - Masa De Harina Mexican,-74802.7,-831369
+919,Kokstad,1912-09-16,Shiro Miso,-54221.75,-658105
+920,Smyków,1918-05-19,Veal - Loin,42357.98,381875
+921,Brahin,1923-10-24,Cheese - Wine,-74731.98,-877771
+922,Ongi,1916-05-31,Couscous,-30848.1,-984454
+923,São Luís do Quitunde,1980-07-30,Skirt - 29 Foot,94360.7,305094
+924,Disina,1999-03-16,Apple - Royal Gala,-37442.91,466037
+"925,Lingkou,1988-04-01,""Fish - Scallops, Cold Smoked"",-90325.27,520118"
+926,Wuyang,1956-07-10,Beer - Sleemans Honey Brown,38688.2,-191624
+927,Hede,1928-07-19,Thermometer Digital,6035.4,-598339
+928,Baddomalhi,1988-10-29,Chives - Fresh,91268.69,370790
+929,Obrera,1902-04-09,Chicken - Bones,94836.33,481280
+930,Orós,1969-09-14,Pails With Lids,-79509.81,-475855
+931,Ungsang,1983-12-19,Pop Shoppe Cream Soda,-70374.59,386485
+932,Zhanlong,1927-06-19,Mushroom Morel Fresh,-13344.65,340743
+933,Dežanovac,1953-05-08,Dome Lid Clear P92008h,-87796.25,131619
+934,Rukaj,1962-01-24,Tea Leaves - Oolong,87723.45,861733
+935,Qila Saifullāh,2008-09-13,Beer - Corona,95631.02,445352
+"936,Batutua,1999-06-12,""Lamb - Whole, Fresh"",-68769.8,-709640"
+937,Parista,1920-02-24,Pastry - Chocolate Marble Tea,-39074.42,925097
+938,Boucherville,1944-08-22,Tia Maria,90879.8,362031
+939,Mętków,1942-12-17,Aspic - Clear,-9545.89,222878
+940,Ovsyanka,1923-12-21,Pur Value,-21663.62,-831225
+941,Ricardo Flores Magon,1920-05-15,Cheese - Brie,58474.91,229672
+942,Brodnica,2014-04-06,Steam Pan - Half Size Deep,48811.2,-893116
+"943,Nanhuatang,1912-06-19,""Syrup - Monin, Amaretta"",-67439.0,-228603"
+944,Malkā,2013-06-18,Lid Coffeecup 12oz D9542b,-1880.58,325704
+945,Lushuihe,1981-07-07,Pastry - Mini French Pastries,21509.31,-218894
+946,Port Washington,1920-01-28,Towel - Roll White,93808.38,-96642
+947,Porsgrunn,1978-01-21,Pastry - Apple Muffins - Mini,-26601.45,31143
+948,Casimiro de Abreu,1913-04-25,Jagermeister,79446.0,-493672
+949,Sosándra,1944-03-23,Island Oasis - Strawberry,-3090.04,-952643
+950,Seixo de Manhoses,1903-09-27,Beer - Camerons Auburn,59845.33,-588413
+951,Meicheng,1946-09-14,Duck - Fat,72414.55,-812193
+952,Zográfos,1947-04-22,Tea - Herbal Orange Spice,-81201.45,-608300
+953,Wonokromo,1922-03-27,Five Alive Citrus,4311.12,-101642
+"954,Nantes,1914-04-11,""Soup - French Onion, Dry"",-97373.87,528471"
+955,Torres Vedras,1906-05-22,Soup - Cream Of Potato / Leek,10219.78,-36169
+"956,Bydgoszcz,1962-12-31,""Veal - Brisket, Provimi,bnls"",-95486.8,164825"
+957,Gereneng,2000-11-04,Coffee - Almond Amaretto,-67564.25,-830010
+958,Quxi,1911-07-21,Cheese - Mascarpone,90716.4,-417008
+959,Kenitra,1991-05-25,Wine - Cousino Macul Antiguas,24465.74,74568
+960,Puncakwangi,1993-07-12,Pastry - Lemon Danish - Mini,-28887.49,155672
+961,Neiba,1981-09-04,Wine - Coteaux Du Tricastin Ac,56949.88,822399
+962,Tingsryd,2009-06-09,Cocoa Powder - Dutched,-3797.47,-433165
+963,Tambac,1974-01-17,Beer - Blue Light,26031.23,859048
+964,Zaliznychne,1985-02-13,Bread Cranberry Foccacia,36240.23,-309577
+"965,Basīrpur,1904-12-04,""Chicken - Leg, Fresh"",82270.65,498922"
+966,Ostrov,1966-08-23,Wine - Rioja Campo Viejo,54394.2,395927
+967,Namīn,1928-10-30,Carbonated Water - White Grape,-59047.24,-415890
+968,São José do Rio Preto,1982-07-25,Tea - Vanilla Chai,-72918.37,704222
+"969,København,1927-01-03,""Chestnuts - Whole,canned"",-34391.71,293331"
+"970,Polo,2006-04-13,""Bread - Crumbs, Bulk"",1574.35,890359"
+971,Doumé,1952-03-02,Muffin Mix - Raisin Bran,35499.28,-144852
+972,Spiczyn,1948-08-19,Sauce - Hoisin,60774.48,-22770
+973,Xinxu,1995-03-31,Tea - English Breakfast,7734.13,-393730
+974,Oslo,2006-11-25,Calypso - Strawberry Lemonade,26354.31,585993
+975,Xihu,1975-09-11,Corn Meal,98063.3,-789640
+976,Amiens,1927-09-19,Cheese - Ermite Bleu,5232.36,-771358
+977,Noailles,2008-11-16,Pie Pecan,-55874.95,237353
+978,Coronel Martínez,1938-07-28,Veal Inside - Provimi,-48878.24,-737401
+979,Karátoulas,2004-07-19,Syrup - Monin - Passion Fruit,39893.39,-365832
+980,Shreveport,1979-12-26,Cranberries - Fresh,-42653.51,207690
+981,Minyue,2013-05-15,Appetizer - Smoked Salmon / Dill,43305.66,499168
+982,Muarasiau,1929-07-23,Pails With Lids,18753.33,-858667
+983,Troitskaya,1921-06-18,Pastrami,-51991.32,-809440
+984,Dayang,1995-12-05,Beef - Kobe Striploin,78007.42,-253725
+"985,Costa Rica,1933-05-14,""Veal - Shank, Pieces"",-34256.07,752396"
+986,Banjar Buahan,1951-09-10,Pork - Sausage Casing,-59078.89,-85992
+987,Oliver,1915-08-27,Nutmeg - Ground,-4965.26,293131
+988,Sukodono,1904-11-28,The Pop Shoppe - Cream Soda,95609.27,203562
+989,Daegu,1962-05-22,Juice Peach Nectar,-18400.05,233589
+990,Ayang-ni,1903-12-01,Pastry - Carrot Muffin - Mini,-36310.69,-764869
+991,Debe,1923-12-18,Lettuce Romaine Chopped,-64413.07,-811639
+"992,Tralee,1961-11-18,""Nut - Almond, Blanched, Sliced"",74177.85,245369"
+"993,Jarošov nad Nežárkou,1953-08-23,""Tomatoes - Cherry, Yellow"",22610.89,178017"
+994,Markušica,2018-01-30,Pate - Cognac,86141.32,-865267
+"995,Qal‘at Bīshah,1996-02-28,""Pepper - Green, Chili"",19912.87,565909"
+996,Balayong,1932-06-05,Peach - Fresh,98978.61,798973
+997,Jiebu,1961-06-28,Muffin Batt - Blueberry Passion,-72312.12,-204406
+998,Sainte-Thérèse,1953-10-23,Lobster - Live,-78004.57,-500099
+999,Birigui,1931-11-03,Wasabi Paste,83907.37,429772
+"1000,Kadubetara,1947-02-01,""Beans - Fava, Canned"",58393.58,-158572"
